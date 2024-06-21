@@ -159,10 +159,14 @@ body{
 }
 
 @media (max-width: 1050px) {
+    body{
+        background-image: none;
+    }
 
     .conteudo__sessao{
         width: 80%;
         align-items: center;
+        margin: 5% 10%;
     }
 
     .conteudo__informacoes{
