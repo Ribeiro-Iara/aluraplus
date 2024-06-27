@@ -181,8 +181,12 @@ body{
         text-align: center;
     }
 
-    .conteudo__informacoes__blocos__img{
+    .segunda__imagem{
         order: -1;
+    }
+
+    .conteudo__informacoes__blocos__img{
+        width: 50vw;
     }
 
     .conteudo__telas__dispositivos{
